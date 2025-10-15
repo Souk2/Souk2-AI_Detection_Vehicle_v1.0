@@ -26,6 +26,7 @@
 1. **Clone โปรเจค**
 ```bash
 git clone <repository-url>
+git lfs pull
 cd AI_Detection_Vehicle
 ```
 

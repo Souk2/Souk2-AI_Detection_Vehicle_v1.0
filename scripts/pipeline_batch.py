@@ -765,7 +765,7 @@ def process_video_and_count(video_path, model_path_best, model_path_yolo12xl, in
 
 if __name__ == '__main__':
     # ตั้งค่า path ของคุณ
-    video_path = "Your_VIDEO" # webcam '0'
+    video_path = 0 # webcam 0
     your_model_path = '../weights/best.pt'
     yolo12xl_model_path = '../weights/yolo12x.pt'
     
